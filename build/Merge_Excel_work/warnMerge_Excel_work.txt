@@ -1,0 +1,374 @@
+missing module named 'multiprocessing.forking' - imported by c:\program files\python36\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named 'win32com.gen_py' - imported by win32com, c:\program files\python36\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named posix - imported by os, E:\MergeExcel\Merge_Excel_work.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, E:\MergeExcel\Merge_Excel_work.py
+missing module named cStringIO - imported by pandas.compat, cPickle, pygments.util, tornado.template, jinja2._compat, pytz.tzfile, xlrd.timemachine, E:\MergeExcel\Merge_Excel_work.py
+missing module named cPickle - imported by pandas.compat, numpy.core.numeric, numpy.lib.format, numpy.lib.npyio, numpy.ma.core, pickleshare, jinja2._compat, zmq.sugar.socket, jupyter_client.session, zmq.eventloop.zmqstream, parso.pgen2.grammar, parso.cache, ipykernel.serialize, ipykernel.pickleutil, E:\MergeExcel\Merge_Excel_work.py
+missing module named future_builtins - imported by numpy.lib.npyio, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'urllib3.packages.six.moves.urllib' - imported by 'urllib3.packages.six.moves.urllib', E:\MergeExcel\Merge_Excel_work.py
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib', E:\MergeExcel\Merge_Excel_work.py
+missing module named org - imported by pickle, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.get_option - imported by pandas, pandas.io.formats.console, pandas.io.parquet, pandas.io.clipboards, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Categorical - imported by pandas, pandas.core.dtypes.missing, pandas.core.indexes.interval, pandas.core.reshape.tile, pandas.core.reshape.merge, pandas.io.packers, pandas.core.dtypes.concat, pandas.core.util.hashing, pandas.core.dtypes.common, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.IntervalIndex - imported by pandas, pandas.core.dtypes.missing, pandas.core.reshape.tile, pandas.core.indexes.category, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Series - imported by pandas, pandas.core.dtypes.missing, pandas.core.tools.timedeltas, pandas.core.algorithms, pandas.core.reshape.concat, pandas.core.missing, pandas.core.indexing, pandas.io.formats.format, pandas.core.indexes.datetimes, pandas.io.json.json, pandas.plotting._core, pandas.core.indexes.multi, pandas.core.window, pandas.core.reshape.tile, pandas.core.reshape.merge, pandas.io.pytables, pandas.io.packers, pandas.core.generic, pandas.core.indexes.accessors, pandas.core.dtypes.concat, pandas.core.indexes.base, pandas.core.base, pandas.core.categorical, pandas.core.tools.datetimes, pandas.core.util.hashing, pandas.io.html, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.to_datetime - imported by pandas, pandas.core.dtypes.cast, pandas.io.json.json, pandas.core.groupby, pandas.core.reshape.tile, pandas.io.stata, pandas.io.pytables, pandas.core.generic, pandas.core.categorical, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.TimedeltaIndex - imported by pandas, pandas.core.tools.timedeltas, pandas.core.algorithms, pandas.core.indexes.datetimes, pandas.io.pytables, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.to_timedelta - imported by pandas, pandas.core.dtypes.cast, pandas.core.window, pandas.core.groupby, pandas.core.reshape.tile, pandas.io.stata, pandas.core.categorical, pandas.core.tools.datetimes, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.to_numeric - imported by pandas, pandas.core.dtypes.cast, pandas.core.categorical, pandas.core.tools.datetimes, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.PeriodIndex - imported by pandas, pandas.core.algorithms, pandas.io.formats.excel, pandas.io.pytables, pandas.io.packers, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.DatetimeIndex - imported by pandas, pandas.core.algorithms, pandas.core.missing, pandas.core.indexes.timedeltas, pandas.io.stata, pandas.io.pytables, pandas.io.packers, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Index - imported by pandas, pandas.core.algorithms, pandas.core.reshape.concat, pandas.compat.pickle_compat, pandas.core.window, pandas.core.reshape.merge, pandas.io.formats.excel, pandas.io.pytables, pandas.io.packers, pandas.core.strings, pandas.core.dtypes.concat, pandas.core.base, pandas.core.categorical, pandas.core.sorting, pandas.core.tools.datetimes, pandas.core.util.hashing, pandas.core.dtypes.dtypes, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.DataFrame - imported by pandas, pandas.core.reshape.concat, pandas.core.indexing, pandas.core.indexes.timedeltas, pandas.io.json.json, pandas.plotting._tools, pandas.plotting._core, pandas.core.indexes.multi, pandas.core.window, pandas.core.reshape.merge, pandas.io.feather_format, pandas.io.parquet, pandas.core.reshape.pivot, pandas.io.json.normalize, pandas.io.pytables, pandas.io.packers, pandas.io.clipboards, pandas.core.generic, pandas.core.strings, pandas.core.indexes.base, pandas.core.base, pandas.core.tools.datetimes, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.MultiIndex - imported by pandas, pandas.core.reshape.concat, pandas.io.json.json, pandas.core.window, pandas.core.reshape.merge, pandas.io.formats.excel, pandas.core.reshape.pivot, pandas.io.pytables, pandas.io.packers, pandas.core.strings, pandas.core.util.hashing, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Panel - imported by pandas, pandas.core.indexing, pandas.core.window, pandas.io.pytables, pandas.io.packers, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Timestamp - imported by pandas, pandas.core.indexes.timedeltas, pandas.core.reshape.tile, pandas.io.packers, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Float64Index - imported by pandas, pandas.core.internals, pandas.io.packers, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.isna - imported by pandas, pandas.io.json.json, pandas.io.stata, pandas.io.pytables, pandas.core.categorical, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.concat - imported by pandas, pandas.core.window, pandas.core.groupby, pandas.core.sparse.frame, pandas.io.pytables, pandas.core.generic, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Timedelta - imported by pandas, pandas.core.reshape.tile, pandas.core.reshape.merge, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Interval - imported by pandas, pandas.core.reshape.tile, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.RangeIndex - imported by pandas, pandas.io.feather_format, pandas.io.parquet, pandas.io.packers, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Int64Index - imported by pandas, pandas.io.feather_format, pandas.io.parquet, pandas.io.pytables, pandas.io.packers, pandas.core.algorithms, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Panel4D - imported by pandas, pandas.io.pytables, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.SparseSeries - imported by pandas, pandas.io.pytables, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.SparseDataFrame - imported by pandas, pandas.io.pytables, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.Period - imported by pandas, pandas.io.packers, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.NaT - imported by pandas, pandas.io.packers, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.CategoricalIndex - imported by pandas, pandas.io.packers, pandas.core.dtypes.concat, pandas.core.categorical, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.option_context - imported by pandas, pandas.io.clipboards, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas.factorize - imported by pandas, pandas.core.util.hashing, E:\MergeExcel\Merge_Excel_work.py
+missing module named cchardet - imported by bs4.dammit, E:\MergeExcel\Merge_Excel_work.py
+missing module named iconv_codec - imported by bs4.dammit, E:\MergeExcel\Merge_Excel_work.py
+missing module named charade - imported by html5lib.inputstream, E:\MergeExcel\Merge_Excel_work.py
+missing module named datrie - imported by html5lib.trie.datrie, E:\MergeExcel\Merge_Excel_work.py
+missing module named html5lib.treebuilders.base - imported by html5lib.treebuilders, bs4.builder._html5lib, E:\MergeExcel\Merge_Excel_work.py
+missing module named genshi - imported by html5lib.treewalkers.genshistream, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'genshi.core' - imported by html5lib.treewalkers.genshistream, E:\MergeExcel\Merge_Excel_work.py
+missing module named cssselect - imported by lxml.cssselect, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'py.path' - imported by pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named pudb - imported by pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named xarray - imported by pandas.core.generic, E:\MergeExcel\Merge_Excel_work.py
+missing module named bottleneck - imported by pandas.core.nanops, E:\MergeExcel\Merge_Excel_work.py
+missing module named xlsxwriter - imported by pandas.io.excel, E:\MergeExcel\Merge_Excel_work.py
+missing module named openpyxl - imported by pandas.compat.openpyxl_compat, pandas.io.excel, E:\MergeExcel\Merge_Excel_work.py
+missing module named cElementTree - imported by xlrd.xlsx, E:\MergeExcel\Merge_Excel_work.py
+missing module named elementtree - imported by xlrd.xlsx, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'openpyxl.workbook' - imported by pandas.io.excel, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'openpyxl.cell' - imported by pandas.io.excel, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'openpyxl.style' - imported by pandas.io.excel, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'openpyxl.styles' - imported by pandas.io.excel, E:\MergeExcel\Merge_Excel_work.py
+missing module named feather - imported by pandas.io.feather_format, E:\MergeExcel\Merge_Excel_work.py
+missing module named pyarrow - imported by pandas.io.parquet, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'pyarrow.parquet' - imported by pandas.io.parquet, E:\MergeExcel\Merge_Excel_work.py
+missing module named fastparquet - imported by pandas.io.parquet, E:\MergeExcel\Merge_Excel_work.py
+missing module named numexpr - imported by pandas.core.computation.check, pandas.core.computation.expressions, pandas.core.computation.engines, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.tan - imported by numpy, scipy.signal.bsplines, scipy.signal.filter_design, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.arctan - imported by numpy, scipy.signal.filter_design, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.arcsinh - imported by numpy, scipy.signal.filter_design, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.arccosh - imported by numpy, scipy.signal.filter_design, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.signal.dlti - imported by scipy.signal, scipy.signal.signaltools, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core, scipy.signal.signaltools, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.log1p - imported by numpy, scipy.stats._discrete_distns, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.expm1 - imported by numpy, scipy.stats._discrete_distns, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.log - imported by numpy, scipy.stats._distn_infrastructure, scipy.stats._discrete_distns, scipy.stats.morestats, scipy.signal.waveforms, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.hypot - imported by numpy, scipy.stats.morestats, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.logical_and - imported by numpy, scipy.stats._distn_infrastructure, scipy.signal.bsplines, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.NINF - imported by numpy, scipy.stats._distn_infrastructure, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.power - imported by numpy, scipy.stats.kde, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.amin - imported by numpy, numpy.ma.core, scipy.misc.pilutil, scipy.stats.morestats, E:\MergeExcel\Merge_Excel_work.py
+missing module named Image - imported by scipy.misc.pilutil, E:\MergeExcel\Merge_Excel_work.py
+missing module named ImageFilter - imported by scipy.misc.pilutil, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.greater - imported by numpy, scipy.optimize.minpack, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.float64 - imported by numpy, scipy.optimize.lbfgsb, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.double - imported by numpy, scipy.optimize.nnls, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.sinh - imported by numpy, scipy.stats._discrete_distns, scipy.signal.filter_design, scipy.fftpack.pseudo_diffs, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.cosh - imported by numpy, scipy.stats._discrete_distns, scipy.signal.filter_design, scipy.fftpack.pseudo_diffs, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.tanh - imported by numpy, scipy.stats._discrete_distns, scipy.fftpack.pseudo_diffs, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.linspace - imported by scipy, scipy.signal.wavelets, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.pi - imported by scipy, scipy.signal.wavelets, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.exp - imported by scipy, scipy.signal.wavelets, E:\MergeExcel\Merge_Excel_work.py
+missing module named new - imported by scipy.interpolate.rbf, E:\MergeExcel\Merge_Excel_work.py
+missing module named mock - imported by matplotlib, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'IPython.kernel.zmq' - imported by IPython, E:\MergeExcel\Merge_Excel_work.py
+missing module named HTMLParser - imported by nbconvert.filters.citation, E:\MergeExcel\Merge_Excel_work.py
+missing module named __pypy__ - imported by jinja2.debug, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'jinja2.debugrenderer' - imported by jinja2.debug, E:\MergeExcel\Merge_Excel_work.py
+missing module named pretty - imported by jinja2.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named backports - imported by pandas.compat, entrypoints, E:\MergeExcel\Merge_Excel_work.py
+missing module named repr - imported by IPython.core.debugger, E:\MergeExcel\Merge_Excel_work.py
+missing module named pysqlite2 - imported by IPython.core.history, E:\MergeExcel\Merge_Excel_work.py
+missing module named docrepr - imported by IPython.core.interactiveshell, E:\MergeExcel\Merge_Excel_work.py
+missing module named ipykernel.get_connection_file - imported by ipykernel, ipykernel.zmqshell, E:\MergeExcel\Merge_Excel_work.py
+missing module named ipykernel.get_connection_info - imported by ipykernel, ipykernel.zmqshell, E:\MergeExcel\Merge_Excel_work.py
+missing module named ipykernel.connect_qtconsole - imported by ipykernel, ipykernel.zmqshell, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'ipyparallel.serialize' - imported by ipykernel.pickleutil, E:\MergeExcel\Merge_Excel_work.py
+missing module named dill - imported by ipykernel.pickleutil, E:\MergeExcel\Merge_Excel_work.py
+missing module named cloudpickle - imported by ipykernel.pickleutil, E:\MergeExcel\Merge_Excel_work.py
+missing module named netifaces - imported by jupyter_client.localinterfaces, E:\MergeExcel\Merge_Excel_work.py
+missing module named paramiko - imported by zmq.ssh.tunnel, E:\MergeExcel\Merge_Excel_work.py
+missing module named SocketServer - imported by zmq.ssh.forward, E:\MergeExcel\Merge_Excel_work.py
+missing module named _subprocess - imported by jupyter_client.launcher, ipykernel.parentpoller, E:\MergeExcel\Merge_Excel_work.py
+missing module named ipyparallel - imported by ipykernel.zmqshell, E:\MergeExcel\Merge_Excel_work.py
+missing module named importlib.lock_held - imported by importlib, ipykernel.iostream, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.ETERM - imported by zmq, zmq.error, zmq.eventloop._deprecated, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.EAGAIN - imported by zmq, zmq.error, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.zmq_version - imported by zmq, zmq.error, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.zmq_version_info - imported by zmq, zmq.error, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.constants - imported by zmq.backend, zmq.sugar.constants, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.has - imported by zmq.backend, zmq.sugar.constants, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.Context - imported by zmq.backend, zmq.sugar.context, E:\MergeExcel\Merge_Excel_work.py
+missing module named pyczmq - imported by zmq.sugar.context, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.zmq_poll - imported by zmq.backend, zmq.sugar.poll, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.Socket - imported by zmq.backend, zmq.sugar.socket, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.Frame - imported by zmq.backend, zmq.sugar.frame, zmq.sugar.tracker, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.zmq_version_info - imported by zmq.backend, zmq.sugar.version, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.strerror - imported by zmq.backend, zmq.error, E:\MergeExcel\Merge_Excel_work.py
+missing module named zmq.backend.zmq_errno - imported by zmq.backend, zmq.error, E:\MergeExcel\Merge_Excel_work.py
+missing module named gevent - imported by zmq.green.poll, zmq.green.core
+missing module named 'gevent.core' - imported by zmq.green.core
+missing module named 'gevent.hub' - imported by zmq.green.core
+missing module named 'gevent.event' - imported by zmq.green.core
+missing module named PySide2 - imported by IPython.external.qt_loaders, E:\MergeExcel\Merge_Excel_work.py, matplotlib.backends.qt_compat
+missing module named appnope - imported by ipykernel.eventloops, E:\MergeExcel\Merge_Excel_work.py
+missing module named wx - imported by matplotlib.pyplot, IPython.lib.guisupport, ipykernel.eventloops, E:\MergeExcel\Merge_Excel_work.py
+missing module named Tkinter - imported by ipykernel.eventloops, E:\MergeExcel\Merge_Excel_work.py, PIL.ImageTk
+missing module named gobject - imported by matplotlib.pyplot, ipykernel.gui.gtkembed, E:\MergeExcel\Merge_Excel_work.py
+missing module named gi - imported by matplotlib.pyplot, ipykernel.gui.gtk3embed, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'gi.repository' - imported by ipykernel.gui.gtk3embed, E:\MergeExcel\Merge_Excel_work.py
+missing module named resource - imported by posix, IPython.utils.timing, E:\MergeExcel\Merge_Excel_work.py
+missing module named rfc3987 - imported by jsonschema._format, E:\MergeExcel\Merge_Excel_work.py
+missing module named strict_rfc3339 - imported by jsonschema._format, E:\MergeExcel\Merge_Excel_work.py
+missing module named isodate - imported by jsonschema._format, E:\MergeExcel\Merge_Excel_work.py
+missing module named webcolors - imported by jsonschema._format, E:\MergeExcel\Merge_Excel_work.py
+missing module named OpenSSL - imported by urllib3.contrib.pyopenssl, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'cryptography.hazmat' - imported by urllib3.contrib.pyopenssl, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'cryptography.x509' - imported by urllib3.contrib.pyopenssl, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'OpenSSL.crypto' - imported by urllib3.contrib.pyopenssl, E:\MergeExcel\Merge_Excel_work.py
+missing module named cryptography - imported by urllib3.contrib.pyopenssl, requests, E:\MergeExcel\Merge_Excel_work.py
+missing module named socks - imported by urllib3.contrib.socks, E:\MergeExcel\Merge_Excel_work.py
+runtime module named urllib3.packages.six.moves - imported by http.client, urllib3.connectionpool, urllib3.util.response, 'urllib3.packages.six.moves.urllib', urllib3.response, urllib3.util.queue, E:\MergeExcel\Merge_Excel_work.py
+missing module named "'urllib3.packages.six.moves.urllib'.parse" - imported by urllib3.request, urllib3.poolmanager, E:\MergeExcel\Merge_Excel_work.py
+missing module named simplejson - imported by requests.compat, pandas.util._print_versions, E:\MergeExcel\Merge_Excel_work.py
+missing module named cookielib - imported by requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named _abcoll - imported by urllib3.packages.ordered_dict, E:\MergeExcel\Merge_Excel_work.py
+missing module named functools32 - imported by jsonschema.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named  - imported by nbformat.validator, E:\MergeExcel\Merge_Excel_work.py
+missing module named pydoc_topics - imported by jedi.api.keywords, E:\MergeExcel\Merge_Excel_work.py
+missing module named Queue - imported by urllib3.util.queue, nbconvert.preprocessors.execute, zmq.eventloop.zmqstream, jedi._compatibility, jupyter_client.blocking.client, jupyter_client.blocking.channels, ipykernel.inprocess.socket, ipykernel.inprocess.blocking, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpydoc - imported by jedi.evaluate.docstrings, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'jedi.parser' - imported by IPython.core.completer, E:\MergeExcel\Merge_Excel_work.py
+missing module named win_unicode_console - imported by IPython.terminal.interactiveshell, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'nose.tools' - imported by IPython.testing.tools, IPython.testing.decorators, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'nose.core' - imported by IPython.testing.iptest, E:\MergeExcel\Merge_Excel_work.py
+missing module named coverage - imported by IPython.testing.iptestcontroller, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'coverage.html' - imported by IPython.testing.iptestcontroller, E:\MergeExcel\Merge_Excel_work.py
+missing module named clr - imported by IPython.utils._process_cli, E:\MergeExcel\Merge_Excel_work.py
+missing module named pexpect - imported by IPython.utils._process_posix, zmq.ssh.tunnel, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.FancyURLopener - imported by urllib, pygments.lexers._sourcemod_builtins
+missing module named PIL._imagingagg - imported by PIL, PIL.ImageDraw
+missing module named ctags - imported by pygments.formatters.html
+missing module named pygments.lexers.BashLexer - imported by pygments.lexers, IPython.lib.lexers, E:\MergeExcel\Merge_Excel_work.py
+missing module named pygments.lexers.Python3Lexer - imported by pygments.lexers, IPython.lib.lexers, E:\MergeExcel\Merge_Excel_work.py
+missing module named pygments.lexers.PythonLexer - imported by pygments.lexers, IPython.lib.lexers, IPython.core.oinspect, E:\MergeExcel\Merge_Excel_work.py
+missing module named pygments.formatters.LatexFormatter - imported by pygments.formatters, IPython.lib.display, nbconvert.filters.highlight, nbconvert.preprocessors.latex, E:\MergeExcel\Merge_Excel_work.py
+missing module named pygments.formatters.HtmlFormatter - imported by pygments.formatters, IPython.lib.display, nbconvert.filters.highlight, nbconvert.filters.markdown_mistune, nbconvert.preprocessors.csshtmlheader, IPython.core.oinspect, E:\MergeExcel\Merge_Excel_work.py
+missing module named traitlets.config.Application - imported by traitlets.config, traitlets.log, ipykernel.kernelspec, E:\MergeExcel\Merge_Excel_work.py
+missing module named System - imported by traitlets.traitlets, IPython.utils._process_cli, E:\MergeExcel\Merge_Excel_work.py
+missing module named IPython.utils.warn - imported by IPython.utils, IPython.testing.tools, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.random.rand - imported by numpy.random, scipy, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.random.randn - imported by numpy.random, scipy, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.random.randint - imported by numpy.random, scipy.stats.kde, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.random.multivariate_normal - imported by numpy.random, scipy.stats.kde, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'mpl_toolkits.natgrid' - imported by matplotlib.mlab, E:\MergeExcel\Merge_Excel_work.py
+missing module named cffi - imported by scipy._lib._ccallback, zmq.utils.interop, PIL.Image, PIL.PyAccess, E:\MergeExcel\Merge_Excel_work.py, PIL.ImageTk, zmq.backend.cffi._cffi
+missing module named pathlib2 - imported by pickleshare, testpath.asserts, IPython.utils.text, PIL.Image, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt, E:\MergeExcel\Merge_Excel_work.py
+missing module named PySide - imported by E:\MergeExcel\Merge_Excel_work.py, matplotlib.backends.qt_compat
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt, E:\MergeExcel\Merge_Excel_work.py
+missing module named "'six.moves.urllib'.parse" - imported by matplotlib.image, matplotlib.textpath, E:\MergeExcel\Merge_Excel_work.py
+missing module named "'six.moves.urllib'.request" - imported by matplotlib, matplotlib.image, matplotlib.finance, E:\MergeExcel\Merge_Excel_work.py
+missing module named matplotlib.tri.Triangulation - imported by matplotlib.tri, matplotlib.tri.trifinder, matplotlib.tri.tritools, matplotlib.tri.triinterpolate, matplotlib.mlab, E:\MergeExcel\Merge_Excel_work.py
+missing module named matplotlib.axes.Axes - imported by matplotlib.axes, matplotlib.figure, matplotlib.legend, matplotlib.projections.geo, matplotlib.projections.polar, matplotlib.pyplot, E:\MergeExcel\Merge_Excel_work.py
+missing module named matplotlib.axes.SubplotBase - imported by matplotlib.axes, matplotlib.gridspec, matplotlib.figure, E:\MergeExcel\Merge_Excel_work.py
+missing module named matplotlib.axes.subplot_class_factory - imported by matplotlib.axes, matplotlib.figure, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'IPython.kernel.comm' - imported by matplotlib.backends.backend_nbagg
+missing module named six.moves.tkinter_filedialog - imported by six.moves, matplotlib.backends.backend_tkagg
+missing module named PyQt5.QtX11Extras - imported by PyQt5, matplotlib.backends.backend_qt5
+missing module named singledispatch - imported by tornado.gen, E:\MergeExcel\Merge_Excel_work.py
+missing module named backports_abc - imported by tornado.gen, E:\MergeExcel\Merge_Excel_work.py
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events, E:\MergeExcel\Merge_Excel_work.py
+missing module named Cookie - imported by tornado.httputil, tornado.web, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named fcntl - imported by asyncio.unix_events, tornado.platform.posix, zmq.eventloop.minitornado.platform.posix, prompt_toolkit.terminal.vt100_output, prompt_toolkit.eventloop.posix, pandas.io.formats.terminal, E:\MergeExcel\Merge_Excel_work.py
+missing module named monotime - imported by tornado.platform.auto, zmq.eventloop.minitornado.platform.auto, E:\MergeExcel\Merge_Excel_work.py
+missing module named monotonic - imported by tornado.platform.auto, E:\MergeExcel\Merge_Excel_work.py
+missing module named htmlentitydefs - imported by tornado.escape, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'backports.functools_lru_cache' - imported by matplotlib.fontconfig_pattern, matplotlib.font_manager, E:\MergeExcel\Merge_Excel_work.py
+missing module named ordereddict - imported by pyparsing, html5lib.treewalkers.etree, html5lib.filters.alphabeticalattributes, E:\MergeExcel\Merge_Excel_work.py, pkg_resources._vendor.pyparsing
+missing module named subprocess32 - imported by matplotlib.compat.subprocess, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.spatial.cKDTree - imported by scipy.spatial, scipy.interpolate.ndgriddata, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.eye - imported by numpy, numpy.core.numeric, scipy.interpolate._pade, scipy.optimize.optimize, scipy.optimize.minpack, scipy.signal.lti_conversion, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.linalg._cblas - imported by scipy.linalg, scipy.linalg.blas, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.linalg._clapack - imported by scipy.linalg, scipy.linalg.lapack, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.arcsin - imported by numpy, scipy.linalg.decomp_svd, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core, scipy.linalg.decomp, scipy.misc.pilutil, scipy.fftpack.pseudo_diffs, scipy.signal.signaltools, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.conj - imported by numpy, scipy.linalg.decomp, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.linalg.qr_insert - imported by scipy.linalg, scipy.sparse.linalg.isolve._gcrotmk, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.logical_not - imported by numpy, scipy.linalg.matfuncs, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.conjugate - imported by numpy, scipy.linalg.matfuncs, scipy.signal.filter_design, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.amax - imported by numpy, numpy.ma.core, scipy.linalg.matfuncs, scipy.misc.pilutil, scipy.stats.morestats, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.sign - imported by numpy, scipy.linalg.matfuncs, scipy.optimize.zeros, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.single - imported by numpy, scipy.linalg.decomp_schur, scipy.linalg.matfuncs, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.ones - imported by scipy, scipy.sparse.linalg.isolve.minres, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.arange - imported by scipy, scipy.sparse.linalg.isolve.minres, E:\MergeExcel\Merge_Excel_work.py
+missing module named scikits - imported by scipy.sparse.linalg.dsolve.linsolve, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.airy - imported by scipy.special, scipy.special.orthogonal, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.arccos - imported by numpy, scipy.special.orthogonal, scipy.linalg.decomp_svd, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.less - imported by numpy, scipy.special.basic, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.inexact - imported by numpy, scipy.special.basic, scipy.linalg.decomp, scipy.optimize.minpack, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.gammaln - imported by scipy.special, scipy.special.spfun_stats, scipy.integrate.quadrature, scipy.stats._discrete_distns, scipy.stats._multivariate, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.xlogy - imported by scipy.special, scipy.interpolate.rbf, scipy.stats._distn_infrastructure, scipy.stats._multivariate, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.chndtr - imported by scipy.special, scipy.stats._distn_infrastructure, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.entr - imported by scipy.special, scipy.stats._distn_infrastructure, scipy.stats._discrete_distns, scipy.stats._multivariate, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.rel_entr - imported by scipy.special, scipy.stats._distn_infrastructure, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.kl_div - imported by scipy.special, scipy.stats._distn_infrastructure, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.ive - imported by scipy.special, scipy.stats._distn_infrastructure, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.beta - imported by scipy.special, scipy.stats._tukeylambda_stats, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.betaln - imported by scipy.special, scipy.stats._discrete_distns, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.special.comb - imported by scipy.special, scipy.linalg.special_matrices, scipy.interpolate.interpolate, scipy.misc, scipy.stats._distn_infrastructure, scipy.signal.bsplines, scipy.signal.filter_design, scipy.signal.wavelets, E:\MergeExcel\Merge_Excel_work.py
+missing module named scipy.sparse.coo_matrix - imported by scipy.sparse, scipy.sparse.data, scipy.optimize._numdiff, scipy.integrate._bvp, scipy.integrate._ivp.common, pandas.core.sparse.frame, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.lib.iscomplexobj - imported by numpy.lib, numpy.testing.nose_tools.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.lib.real - imported by numpy.lib, numpy.testing.nose_tools.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.lib.imag - imported by numpy.lib, numpy.testing.nose_tools.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.lib.triu - imported by numpy.lib, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.linalg.inv - imported by numpy.linalg, numpy.matrixlib.defmatrix, numpy.lib.polynomial, matplotlib.transforms, scipy.linalg._solvers, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib, scipy.optimize.minpack, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, IPython.core.magics.namespace, scipy.stats._distn_infrastructure, scipy.stats.mstats_basic, scipy.stats.mstats_extras, pandas.compat.numpy.function, scipy.signal.signaltools, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, scipy.stats.stats, scipy.linalg.decomp, scipy.sparse.linalg.isolve.utils, scipy.misc.common, scipy.interpolate.interpolate, scipy.interpolate._fitpack_impl, scipy.interpolate.fitpack2, scipy.misc.pilutil, scipy.optimize.lbfgsb, scipy.optimize.tnc, scipy.optimize.slsqp, scipy.optimize.minpack, scipy.integrate._ode, scipy.stats.morestats, scipy.signal.bsplines, scipy.signal.filter_design, scipy.signal.signaltools, scipy.signal.lti_conversion, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.testing.jiffies - imported by numpy.testing, numpy.f2py.f2py_testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.testing.memusage - imported by numpy.testing, numpy.f2py.f2py_testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'nose.util' - imported by numpy.testing.nose_tools.noseclasses, IPython.testing.iptest, IPython.testing.plugin.ipdoctest, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'nose.plugins' - imported by numpy.testing.nose_tools.noseclasses, numpy.testing.nose_tools.nosetester, IPython.testing.iptest, IPython.testing.plugin.ipdoctest, IPython.external.decorators._numpy_testing_noseclasses, E:\MergeExcel\Merge_Excel_work.py
+missing module named ConfigParser - imported by numpy.distutils.system_info, numpy.distutils.npy_pkg_config, E:\MergeExcel\Merge_Excel_work.py
+missing module named Numeric - imported by numpy.distutils.system_info, E:\MergeExcel\Merge_Excel_work.py
+missing module named numarray - imported by numpy.distutils.system_info, E:\MergeExcel\Merge_Excel_work.py
+missing module named __svn_version__ - imported by numpy.f2py.__version__, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy_distutils - imported by numpy.f2py.diagnose, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose, E:\MergeExcel\Merge_Excel_work.py
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.py33compat, setuptools.config, setuptools.command.easy_install, setuptools.sandbox, setuptools.py27compat, setuptools.package_index, setuptools.wheel, setuptools.pep425tags, setuptools.command.egg_info, setuptools.command.sdist, setuptools.command.bdist_egg, setuptools.unicode_utils, setuptools.command.develop, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.py33compat, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.command.py36compat, setuptools.namespaces, E:\MergeExcel\Merge_Excel_work.py, setuptools.msvc
+missing module named 'backports.ssl_match_hostname' - imported by setuptools.ssl_support, urllib3.packages.ssl_match_hostname, E:\MergeExcel\Merge_Excel_work.py
+missing module named wincertstore - imported by setuptools.ssl_support, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'setuptools.extern.packaging.utils' - imported by setuptools.wheel, E:\MergeExcel\Merge_Excel_work.py
+missing module named _manylinux - imported by setuptools.pep425tags, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'setuptools.extern.packaging.version' - imported by setuptools.config, E:\MergeExcel\Merge_Excel_work.py, setuptools.msvc
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension, E:\MergeExcel\Merge_Excel_work.py
+missing module named setuptools.extern.packaging - imported by setuptools.extern, setuptools.dist, setuptools.command.egg_info, E:\MergeExcel\Merge_Excel_work.py
+missing module named commands - imported by numpy.distutils.cpuinfo, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft.fftpack, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.fft.fftpack, numpy.linalg.linalg, scipy.sparse.linalg._norm, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper, E:\MergeExcel\Merge_Excel_work.py
+missing module named copy_reg - imported by cStringIO, cPickle, numpy.core, ipykernel.codeutil, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.maximum - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.longdouble - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.intp - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.object_ - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.divide - imported by numpy.core, numpy.linalg.linalg, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing.nose_tools.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named nose - imported by numpy.testing.nose_tools.utils, numpy.testing.nose_tools.decorators, numpy.testing.nose_tools.noseclasses, IPython.testing.iptest, IPython.external.decorators._decorators, IPython.testing.decorators, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.float64 - imported by numpy.core, numpy.testing.nose_tools.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing.nose_tools.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.core.number - imported by numpy.core, numpy.testing.nose_tools.utils, E:\MergeExcel\Merge_Excel_work.py
+missing module named __builtin__ - imported by pandas.compat, numpy.core.numerictypes, numpy.core.numeric, scipy._lib.six, numpy.distutils.misc_util, numpy.lib.function_base, numpy.lib._iotools, numpy.ma.core, numpy, ipython_genutils.py3compat, tornado.gen, jedi._compatibility, pyparsing, PIL.Image, E:\MergeExcel\Merge_Excel_work.py, pkg_resources._vendor.pyparsing
+missing module named dummy_thread - imported by numpy.core.arrayprint, urllib3.packages.ordered_dict, E:\MergeExcel\Merge_Excel_work.py
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual, E:\MergeExcel\Merge_Excel_work.py
+missing module named pytest - imported by scipy._lib._testutils, matplotlib, pandas.util._tester, pandas.util.testing, E:\MergeExcel\Merge_Excel_work.py
+missing module named psutil - imported by scipy._lib._testutils, E:\MergeExcel\Merge_Excel_work.py
+missing module named sets - imported by pytz.tzinfo, E:\MergeExcel\Merge_Excel_work.py
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources, pkg_resources.py31compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, E:\MergeExcel\Merge_Excel_work.py, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources, E:\MergeExcel\Merge_Excel_work.py
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, E:\MergeExcel\Merge_Excel_work.py
+missing module named UserDict - imported by PyInstaller.compat, pytz.lazy, E:\MergeExcel\Merge_Excel_work.py
+missing module named win32ctypes - imported by PyInstaller.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'win32ctypes.pywin32' - imported by PyInstaller.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named Crypto - imported by PyInstaller.building.makespec, E:\MergeExcel\Merge_Excel_work.py
+missing module named thread - imported by pandas.compat.chainmap_impl, numpy.core.arrayprint, PyInstaller.loader.pyimod02_archive, tornado.ioloop, urllib3.packages.ordered_dict, zmq.eventloop.minitornado.ioloop, ipykernel.parentpoller, E:\MergeExcel\Merge_Excel_work.py
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive, E:\MergeExcel\Merge_Excel_work.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, E:\MergeExcel\Merge_Excel_work.py, c:\program files\python36\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named dis3 - imported by PyInstaller.lib.modulegraph._compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named xdis - imported by PyInstaller.lib.modulegraph._compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'macholib.compat' - imported by macholib.MachO, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named readline - imported by cmd, code, pdb, pstats, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'org.python' - imported by copy, xml.sax, setuptools.sandbox, E:\MergeExcel\Merge_Excel_work.py
+missing module named botocore - imported by pandas.io.s3, E:\MergeExcel\Merge_Excel_work.py
+missing module named pandas_gbq - imported by pandas.io.gbq, E:\MergeExcel\Merge_Excel_work.py
+missing module named tables - imported by pandas.io.pytables, E:\MergeExcel\Merge_Excel_work.py
+missing module named blosc - imported by pandas.io.packers, E:\MergeExcel\Merge_Excel_work.py
+missing module named sqlalchemy - imported by pandas.io.sql, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process, E:\MergeExcel\Merge_Excel_work.py
+missing module named multiprocessing.Process - imported by multiprocessing, zmq.ssh.tunnel, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'sqlalchemy.ext' - imported by pandas.io.sql, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'sqlalchemy.schema' - imported by pandas.io.sql, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'sqlalchemy.types' - imported by pandas.io.sql, E:\MergeExcel\Merge_Excel_work.py
+missing module named _winreg - imported by platform, numpy.distutils.cpuinfo, IPython.utils.path, requests.utils, nbconvert.preprocessors.svg2pdf, jedi.api.environment, E:\MergeExcel\Merge_Excel_work.py, pkg_resources._vendor.appdirs, pygments.formatters.img
+missing module named java - imported by platform, unittest.mock, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, E:\MergeExcel\Merge_Excel_work.py
+missing module named vms_lib - imported by platform, E:\MergeExcel\Merge_Excel_work.py
+missing module named 'PyQt4.QtGui' - imported by matplotlib.pyplot, pandas.io.clipboard.clipboards, E:\MergeExcel\Merge_Excel_work.py
+missing module named gtk - imported by ipykernel.gui.gtkembed, pandas.io.clipboard.clipboards, pandas.io.clipboard, E:\MergeExcel\Merge_Excel_work.py
+missing module named PyQt4 - imported by pandas.io.clipboard, E:\MergeExcel\Merge_Excel_work.py, matplotlib.backends.qt_compat
+missing module named termios - imported by tty, getpass, prompt_toolkit.terminal.vt100_output, prompt_toolkit.terminal.vt100_input, IPython.core.page, pandas.io.formats.terminal, E:\MergeExcel\Merge_Excel_work.py
+missing module named _scproxy - imported by urllib.request, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib2 - imported by numpy.lib._datasource, jsonschema.compat, requests.compat, nbconvert.filters.strings, IPython.core.magics.code, pandas.io.common, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.urlretrieve - imported by urllib, notebook.nbextensions, E:\MergeExcel\Merge_Excel_work.py, pygments.lexers._php_builtins
+missing module named urllib.quote - imported by urllib, notebook.utils, requests.compat, jinja2._compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.unquote - imported by urllib, notebook.utils, jsonschema.compat, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.quote_plus - imported by urllib, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.unquote_plus - imported by urllib, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.getproxies - imported by urllib, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.proxy_bypass_environment - imported by urllib, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.getproxies_environment - imported by urllib, requests.compat, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.urlopen - imported by urllib, lxml.html, E:\MergeExcel\Merge_Excel_work.py, pygments.lexers._postgres_builtins, pygments.lexers._lua_builtins
+missing module named urllib.urlencode - imported by urllib, IPython.lib.display, tornado.httputil, tornado.web, requests.compat, pandas.io.common, lxml.html, E:\MergeExcel\Merge_Excel_work.py
+missing module named urllib.pathname2url - imported by urllib, PyInstaller.lib.modulegraph._compat, pandas.io.common, E:\MergeExcel\Merge_Excel_work.py
+missing module named urlparse - imported by numpy.lib._datasource, notebook.nbextensions, tornado.escape, tornado.httputil, tornado.web, notebook.utils, jsonschema.compat, requests.compat, tornado.simple_httpclient, tornado.websocket, pandas.io.common, pandas.io.s3, lxml.html, E:\MergeExcel\Merge_Excel_work.py
+missing module named httplib - imported by pandas.compat, tornado.httputil, pandas.io.common, E:\MergeExcel\Merge_Excel_work.py
+missing module named py - imported by pandas.io.common, E:\MergeExcel\Merge_Excel_work.py
+missing module named s3fs - imported by pandas.io.s3, pandas.io.common, E:\MergeExcel\Merge_Excel_work.py
+missing module named StringIO - imported by pandas.compat, six, numpy.lib.utils, numpy.testing.nose_tools.utils, scipy._lib.six, PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, numpy.lib.format, pygments.util, jsonschema.compat, urllib3.packages.six, requests.compat, E:\MergeExcel\Merge_Excel_work.py, pkg_resources._vendor.six
+missing module named dateutil.tz.tzfile - imported by dateutil.tz, dateutil.zoneinfo, E:\MergeExcel\Merge_Excel_work.py
+missing module named six.moves.map - imported by six.moves, prompt_toolkit.document, matplotlib.afm, matplotlib.patches, matplotlib.mlab, matplotlib.axes._subplots, E:\MergeExcel\Merge_Excel_work.py
+missing module named six.moves.xrange - imported by six.moves, matplotlib.cbook, matplotlib.colorbar, matplotlib.hatch, matplotlib.markers, matplotlib.backend_bases, matplotlib.mlab, matplotlib.contour, matplotlib.dviread, matplotlib.tri.triinterpolate, matplotlib.backends.backend_svg, matplotlib.legend, matplotlib.offsetbox, matplotlib.axes._axes, matplotlib.stackplot, matplotlib.streamplot, matplotlib.table, matplotlib.axes._base, matplotlib.finance, E:\MergeExcel\Merge_Excel_work.py
+missing module named six.moves.zip - imported by six.moves, matplotlib.cbook, matplotlib.colors, cycler, matplotlib.colorbar, matplotlib.patches, matplotlib.text, matplotlib.textpath, matplotlib.widgets, matplotlib.mlab, matplotlib.collections, matplotlib.gridspec, matplotlib.dates, matplotlib.offsetbox, matplotlib.legend_handler, matplotlib.axes._axes, matplotlib.finance, E:\MergeExcel\Merge_Excel_work.py
+runtime module named six.moves - imported by dateutil.tz.win, dateutil.rrule, prompt_toolkit.utils, prompt_toolkit.document, prompt_toolkit.buffer, prompt_toolkit.layout.containers, prompt_toolkit.layout.controls, prompt_toolkit.layout.lexers, prompt_toolkit.layout.processors, prompt_toolkit.layout.margins, prompt_toolkit.styles.from_dict, prompt_toolkit.renderer, prompt_toolkit.key_binding.bindings.named_commands, prompt_toolkit.key_binding.bindings.scroll, prompt_toolkit.key_binding.bindings.vi, prompt_toolkit.layout.menus, prompt_toolkit.terminal.vt100_output, prompt_toolkit.terminal.win32_input, prompt_toolkit.key_binding.input_processor, prompt_toolkit.terminal.vt100_input, matplotlib.cbook, matplotlib.colors, cycler, 'six.moves.urllib', matplotlib, matplotlib.afm, matplotlib.colorbar, matplotlib.hatch, matplotlib.patches, matplotlib.markers, matplotlib.text, matplotlib.font_manager, matplotlib.textpath, matplotlib.backend_bases, matplotlib.widgets, matplotlib.mlab, matplotlib.contour, matplotlib.collections, matplotlib.dviread, matplotlib.tri.triinterpolate, matplotlib.axes._subplots, matplotlib.gridspec, matplotlib.dates, matplotlib.backends.backend_svg, matplotlib.legend, matplotlib.offsetbox, matplotlib.legend_handler, matplotlib.axes._axes, matplotlib.stackplot, matplotlib.streamplot, matplotlib.table, matplotlib.axes._base, matplotlib.finance, html5lib.inputstream, html5lib.sanitizer, E:\MergeExcel\Merge_Excel_work.py, matplotlib.backends.backend_tkagg, matplotlib.backends.tkagg, matplotlib.backends.backend_ps
+missing module named six.moves.range - imported by six.moves, dateutil.rrule, prompt_toolkit.utils, prompt_toolkit.document, prompt_toolkit.buffer, prompt_toolkit.layout.containers, prompt_toolkit.layout.controls, prompt_toolkit.layout.lexers, prompt_toolkit.layout.processors, prompt_toolkit.layout.margins, prompt_toolkit.styles.from_dict, prompt_toolkit.renderer, prompt_toolkit.key_binding.bindings.named_commands, prompt_toolkit.key_binding.bindings.scroll, prompt_toolkit.key_binding.bindings.vi, prompt_toolkit.layout.menus, prompt_toolkit.terminal.vt100_output, prompt_toolkit.terminal.win32_input, prompt_toolkit.key_binding.input_processor, prompt_toolkit.terminal.vt100_input, E:\MergeExcel\Merge_Excel_work.py
+missing module named grp - imported by shutil, tarfile, pathlib, distutils.archive_util, E:\MergeExcel\Merge_Excel_work.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, E:\MergeExcel\Merge_Excel_work.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\MergeExcel\Merge_Excel_work.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, pathlib, distutils.util, distutils.archive_util, netrc, getpass, E:\MergeExcel\Merge_Excel_work.py
+missing module named _dummy_threading - imported by dummy_threading, E:\MergeExcel\Merge_Excel_work.py
